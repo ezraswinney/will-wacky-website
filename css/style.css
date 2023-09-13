@@ -340,7 +340,7 @@ body #mainWrapper main::after {
 --------------------------------------------------------------*/
 
 body {
-    background: blue;
+    background: rgb(193, 117, 197);
 }
 
 body main {
